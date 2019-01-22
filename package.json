@@ -1,0 +1,26 @@
+{
+  "name": "jarvis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "Hello world"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NurMaks/SlackBot.git"
+  },
+  "author": "Nurtai Maksat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NurMaks/SlackBot/issues"
+  },
+  "homepage": "https://github.com/NurMaks/SlackBot#readme",
+  "dependencies": {
+    "@slack/client": "^4.3.1",
+    "localtunnel": "^1.9.0",
+    "slackbot": "0.0.2",
+    "slackbots": "^0.3.0",
+    "sqlite3": "^4.0.1"
+  }
+}
